@@ -1,0 +1,12 @@
+{
+  "name": "divyamothermilk",
+  "version": "1.0.0",
+  "description": "Divya mother milk project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lalit sharma",
+  "license": "ISC"
+
+}
